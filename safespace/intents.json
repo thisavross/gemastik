@@ -1,0 +1,120 @@
+{
+        "intents": [
+                {
+                        "tag": "selamat",
+                        "patterns": [
+                                "Hi",
+                                "How are you",
+                                "Is anyone there?",
+                                "Hello",
+                                "Good day",
+                                "Assalamualaikum"
+                        ],
+                        "responses": [
+                                "Hello, thanks for visiting",
+                                "Waalaikumsalam, thanks for visiting",
+                                "Waalaikumsalam, Good to see you again",
+                                "Waalaikumsalam, Hi there, how can I help?"
+                        ],
+                        "context_set": ""
+                },
+                {
+                        "tag": "jumpa lagi",
+                        "patterns": [
+                                "Bye",
+                                "See you later",
+                                "Jumpa lagi kawan",
+                                "Goodbye"
+                        ],
+                        "responses": [
+                                "See you later, thanks for visiting",
+                                "Ok Jumpa lagi, kerana datang",
+                                "Have a nice day",
+                                "Bye! Come back again soon."
+                        ]
+                },
+                {
+                        "tag": "terima kasih",
+                        "patterns": [
+                                "Thanks",
+                                "Thank you",
+                                "That's helpful"
+                        ],
+                        "responses": [
+                                "Happy to help!",
+                                "Any time!",
+                                "My pleasure"
+                        ]
+                },
+                {
+                        "tag": "chatbot",
+                        "patterns": [
+                                "Who built this chatbot?",
+                                "Tell me about Chatbot",
+                                "What is this chatbot name?"
+                        ],
+                        "responses": [
+                                "Hi, I am Chatbot designed by Sir Fahmi.",
+                                "Thanks for asking. I am designed by Sir Fahmi.",
+                                "I am a chatbot."
+                        ]
+                },
+                {
+                        "tag": "location",
+                        "patterns": [
+                                "What is your location?",
+                                "Where are you located?",
+                                "What is your address?"
+                        ],
+                        "responses": [
+                                "We are from Indonesia.",
+                                "You can visit Indonesia to meet us",
+                                "Thans for your Interest. I live in Indonesia."
+                        ]
+                },
+                {
+                        "tag": "connect",
+                        "patterns": [
+                                "Give me your social media accounts link",
+                                "Where can we connect",
+                                "How can i reach out to you?",
+                                "Is there any way we can connect"
+                        ],
+                        "responses": [
+                                "You can connect me on Linkedin or Github \n Linkedin - https://www.linkedin.com/in/dr-hasanul-fahmi-m-kom-96868b170/",
+                                "You can visit https://www.linkedin.com/in/dr-hasanul-fahmi-m-kom-96868b170/"
+                        ]
+                },
+                {
+                        "tag": "movies",
+                        "patterns": [
+                                "Which is your favourite movie?",
+                                "Suggest me some movies",
+                                "Recommend movies"
+                        ],
+                        "responses": [
+                                "3 idiots",
+                                "Hera Pheri",
+                                "Lage Raho Munna Bhai",
+                                "OMG: Oh My God!",
+                                "PK",
+                                "Yeh Jawani hai Deewani",
+                                "Zindagi na Milegi Doobara",
+                                "Ludo"
+                        ]
+                },
+                {
+                        "tag": "about",
+                        "patterns": [
+                                "Who are you?",
+                                "Tell me about Yourself",
+                                "What is this?"
+                        ],
+                        "responses": [
+                                "Hi, I am Sir Fahmi. Nice to meet you. I made this chatbot for fun and practice.",
+                                "Thanks for asking. I am Sir Fahmi, coder by profession but Machine Learning enthusiast by passion."
+                        ]
+                }
+               
+        ]
+}

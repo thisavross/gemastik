@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "891790864738",
+    "project_id": "fir-authentication-21631",
+    "storage_bucket": "fir-authentication-21631.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891790864738:android:4b35a7807b764fc6c4fc3b",
+        "android_client_info": {
+          "package_name": "com.example.firebase_auth_hartati"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwzibRH2TuIiGSKYNaCHzk0pT_TZo9CbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
